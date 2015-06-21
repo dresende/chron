@@ -1,0 +1,9 @@
+{
+	"name"        : "chron",
+	"version"     : "0.0.1",
+	"description" : "",
+	"main"        : "lib/Chron.js",
+	"keywords"    : [ "cron", "time", "scheduler" ],
+	"author"      : "Diogo Resende <dresende@thinkdigital.pt>",
+	"license"     : "MIT"
+}
