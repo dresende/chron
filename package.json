@@ -1,13 +1,14 @@
 {
-	"name"        : "chron",
-	"version"     : "0.0.2",
-	"description" : "Task scheduler",
-	"keywords"    : [ "cron", "time", "scheduler" ],
-	"author"      : "Diogo Resende <dresende@thinkdigital.pt>",
-	"repository"  : "http://github.com/dresende/chron.git",
-	"license"     : "MIT",
-	"main"        : "lib/Chron.js",
-	"engines"     : {
-		"node" : "*"
+	"name"         : "chron",
+	"version"      : "0.0.3",
+	"description"  : "Task scheduler",
+	"keywords"     : [ "cron", "time", "scheduler" ],
+	"author"       : "Diogo Resende <dresende@thinkdigital.pt>",
+	"repository"   : "http://github.com/dresende/chron.git",
+	"license"      : "MIT",
+	"main"         : "lib/Chron.js",
+	"engines"      : { "node" : "*" },
+	"dependencies" : {
+		"async" : "1.2.x"
 	}
 }
