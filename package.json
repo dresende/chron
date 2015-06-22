@@ -1,6 +1,6 @@
 {
 	"name"         : "chron",
-	"version"      : "0.0.3",
+	"version"      : "0.0.4",
 	"description"  : "Task scheduler",
 	"keywords"     : [ "cron", "time", "scheduler" ],
 	"author"       : "Diogo Resende <dresende@thinkdigital.pt>",
